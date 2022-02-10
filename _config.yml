@@ -8,12 +8,12 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
+title : yoyox2 Blog
 tagline: Site Tagline
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
+  name : Edward PArk
+  email : psh5566@gmail.com
+  github : yoyox2
   twitter : username
   feedburner : feedname
 
@@ -25,7 +25,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://username.github.io
+production_url : http://yoyox2.github.io
 
 gems: ["jekyll-sitemap"]
 
